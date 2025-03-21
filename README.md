@@ -208,11 +208,3 @@ def test_many_symbols():
         num_spins=1
     )
 ```
-
-## Best Practices
-
-1. **Name tests clearly** - Use descriptive names for your test functions
-2. **Document values** - Add comments explaining what each value does
-3. **Add verification** - Check that results match expectations
-4. **Start simple** - Begin with simple scenarios before testing complex ones
-5. **Reuse patterns** - Create helper functions for common test patterns
